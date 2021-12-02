@@ -37,13 +37,3 @@ npm run build or yarn build
 ```
 
 This script will build the static assets for the application in the .next/ directory.
-
-## Tests
-
-This application has unit tests. The tests can be run with the following script:
-
-```
-npm test
-```
-
-This will run all unit tests with Jest and output the results to the console.
